@@ -38,7 +38,7 @@ Tack uses computer vision models trained specifically on **bird and wildlife ana
 Point it at a folder. Get your keepers. What used to take 3 hours now takes 5 minutes.
 
 <p align="center">
-  <img src="https://wildlifecull.com/screenshot.png" alt="Tack interface showing sharp and reject columns" width="700" />
+<img src="https://wildlifecull.com/assets/tack-main-ZlsFvw_g.png" alt="Tack Screenshot" width="800">
 </p>
 
 ---
