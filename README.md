@@ -222,9 +222,7 @@ Yes. Use the threshold slider to keep more or fewer images. Slide toward "Keep M
 
 ## License
 
-Tack is proprietary software. See [LICENSE](LICENSE) for details.
-
-The source code in this repository is for reference only. Building and distributing Tack requires a commercial license from the author.
+Tack is proprietary software.
 
 ---
 
