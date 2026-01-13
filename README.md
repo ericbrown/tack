@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://wildlifecull.com/logo.png](https://wildlifecull.com/favicon.svg)" alt="Tack" width="120" />
+ <img src="https://wildlifecull.com/favicon.svg" alt="Tack Logo" width="128" height="128">
 </p>
 
 <h1 align="center">Tack</h1>
