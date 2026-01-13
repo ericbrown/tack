@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://wildlifecull.com/logo.png" alt="Tack" width="120" />
 </p>
@@ -11,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="#download">Mac (Apple Silicon)</a> •
-  <a href="#download">Mac (Intel)</a> •
-  <a href="#download">Windows</a> •
-  <a href="#download">Linux</a>
+  <a href="https://github.com/ericbrown/tack/releases/latest/download/Tack-mac-silicon.dmg">Mac (Apple Silicon)</a> •
+  <a href="https://github.com/ericbrown/tack/releases/latest/download/Tack-mac-intel.dmg">Mac (Intel)</a> •
+  <a href="https://github.com/ericbrown/tack/releases/latest/download/Tack-windows.exe">Windows</a> •
+  <a href="https://github.com/ericbrown/tack/releases/latest/download/Tack-linux.AppImage">Linux</a>
 </p>
 
 <p align="center">
@@ -64,6 +63,9 @@ Trained on thousands of bird and mammal photos. Knows where to look for eyes on 
 ### Intelligent Sharpness Scoring
 Measures sharpness precisely where it matters—on the eye. Ranks your entire shoot so the best images rise to the top.
 
+### Motion Blur Detection
+Automatically identifies images ruined by camera shake or subject movement. No more zooming to 100% on every frame.
+
 ### RAW File Support
 Works directly with CR2, CR3, NEF, ARW, RAF, DNG, ORF, RW2, and more. No need to export JPEGs first.
 
@@ -110,10 +112,12 @@ Analyzes hundreds of images per minute on Apple Silicon. Process an entire memor
 
 | Platform | Download |
 |----------|----------|
-| macOS (Apple Silicon) | [Tack-mac-silicon.dmg]([https://github.com/tack-app/tack/releases/latest](https://github.com/ericbrown/tack/releases/latest/download/Tack-mac-silicon.dmg)) |
-| macOS (Intel) | [Tack-mac-intel.dmg]([https://github.com/tack-app/tack/releases/latest](https://github.com/ericbrown/tack/releases/latest/download/Tack-mac-intel.dmg)) |
-| Windows | [Tack-windows.exe]([https://github.com/tack-app/tack/releases/latest](https://github.com/ericbrown/tack/releases/latest/download/Tack-windows.exe)) |
-| Linux | [Tack-linux-AppImage]([https://github.com/tack-app/tack/releases/latest](https://github.com/ericbrown/tack/releases/latest/download/Tack-linux.AppImage)) |
+| macOS (Apple Silicon) | [Tack-mac-silicon.dmg](https://github.com/ericbrown/tack/releases/latest/download/Tack-mac-silicon.dmg) |
+| macOS (Intel) | [Tack-mac-intel.dmg](https://github.com/ericbrown/tack/releases/latest/download/Tack-mac-intel.dmg) |
+| Windows | [Tack-windows.exe](https://github.com/ericbrown/tack/releases/latest/download/Tack-windows.exe) |
+| Linux | [Tack-linux.AppImage](https://github.com/ericbrown/tack/releases/latest/download/Tack-linux.AppImage) |
+
+→ [View all releases](https://github.com/ericbrown/tack/releases)
 
 ---
 
