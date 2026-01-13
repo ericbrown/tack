@@ -117,7 +117,6 @@ Analyzes hundreds of images per minute on Apple Silicon. Process an entire memor
 | Windows | [Tack-windows.exe](https://github.com/ericbrown/tack/releases/latest/download/Tack-windows.exe) |
 | Linux | [Tack-linux.AppImage](https://github.com/ericbrown/tack/releases/latest/download/Tack-linux.AppImage) |
 
-→ [View all releases](https://github.com/ericbrown/tack/releases)
 
 ---
 
