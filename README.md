@@ -58,25 +58,22 @@ Open Lightroom, import the folder, and your culling is already done.
 
 ## Features
 
-### 🎯 Wildlife-Specific Eye Detection
+### Wildlife-Specific Eye Detection
 Trained on thousands of bird and mammal photos. Knows where to look for eyes on a kingfisher, an owl, a fox, or an elk. Not just human faces.
 
-### ⚡ Intelligent Sharpness Scoring
+### Intelligent Sharpness Scoring
 Measures sharpness precisely where it matters—on the eye. Ranks your entire shoot so the best images rise to the top.
 
-### 🔍 Motion Blur Detection
-Automatically identifies images ruined by camera shake or subject movement. No more zooming to 100% on every frame.
-
-### 📁 RAW File Support
+### RAW File Support
 Works directly with CR2, CR3, NEF, ARW, RAF, DNG, ORF, RW2, and more. No need to export JPEGs first.
 
-### 🔗 Seamless Lightroom Integration
+### Seamless Lightroom Integration
 Exports XMP sidecar files with star ratings and color labels. Your images arrive in Lightroom pre-flagged as Picks or Rejects.
 
-### 💻 Works Offline
+### Works Offline
 All processing happens locally on your machine. Your photos never leave your computer. No cloud uploads, no privacy concerns.
 
-### 🚀 Built for Speed
+### Built for Speed
 Analyzes hundreds of images per minute on Apple Silicon. Process an entire memory card while you grab coffee.
 
 ---
