@@ -110,12 +110,10 @@ Analyzes hundreds of images per minute on Apple Silicon. Process an entire memor
 
 | Platform | Download |
 |----------|----------|
-| macOS (Apple Silicon) | [Tack-1.0.0-arm64.dmg](https://github.com/tack-app/tack/releases/latest) |
-| macOS (Intel) | [Tack-1.0.0-x64.dmg](https://github.com/tack-app/tack/releases/latest) |
-| Windows | [Tack-1.0.0-x64.msi](https://github.com/tack-app/tack/releases/latest) |
-| Linux | [Tack-1.0.0-x64.AppImage](https://github.com/tack-app/tack/releases/latest) |
-
-→ [View all releases](https://github.com/tack-app/tack/releases)
+| macOS (Apple Silicon) | [Tack-mac-silicon.dmg]([https://github.com/tack-app/tack/releases/latest](https://github.com/ericbrown/tack/releases/latest/download/Tack-mac-silicon.dmg)) |
+| macOS (Intel) | [Tack-mac-intel.dmg]([https://github.com/tack-app/tack/releases/latest](https://github.com/ericbrown/tack/releases/latest/download/Tack-mac-intel.dmg)) |
+| Windows | [Tack-windows.exe]([https://github.com/tack-app/tack/releases/latest](https://github.com/ericbrown/tack/releases/latest/download/Tack-windows.exe)) |
+| Linux | [Tack-linux-AppImage]([https://github.com/tack-app/tack/releases/latest](https://github.com/ericbrown/tack/releases/latest/download/Tack-linux.AppImage)) |
 
 ---
 
